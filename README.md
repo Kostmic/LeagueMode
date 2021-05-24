@@ -11,7 +11,7 @@ It is a batch script that opens 3 useful websites i always have open alongside t
 
 
 How to setup:
-1. 🖱️Right click on the .bat file
+1. 🖱️Right click on the .bat file -> click "edit"
 2. ❌Replace `<Username here>` with your own summoner name
 3. 💾Save the file
 4. 🖱️Right click on the file and hit "Create shortcut"
