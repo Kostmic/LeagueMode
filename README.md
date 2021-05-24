@@ -1,11 +1,13 @@
 # LeagueMode
-This is a neat little tool i have been using while playing League of Legends. It is a batch script that opens 3 useful websites to have open alongside the game:
+This is a neat little tool i have been using while playing League of Legends. 
 
-Professor.gg (To get general information about both teams while loading into the game)
+It is a batch script that opens 3 useful websites i always have open alongside the game:
 
-Op.gg (To track your own progress throughout games)
+👓 Professor.gg (To get general information about both teams while loading into the game) 👓
 
-U.gg (To view current builds for any champion)
+🚩 Op.gg (To track your own progress throughout games) 🚩
+
+🧱 U.gg (To view current builds for any champion) 🧱
 
 
 How to setup:
